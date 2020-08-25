@@ -1,0 +1,13 @@
+{
+	"keystone": {
+		"version": "2.0.0",
+		"release_date": "2020-08-25",
+		"uptime": "",
+		"git_hash": "",
+		"doc": "",
+		"api": {
+			"version": "v1",
+			"link": ""
+		}
+	}
+}
